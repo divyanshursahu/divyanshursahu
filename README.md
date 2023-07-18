@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Divyanshu Sahu
+<h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
+- 👋 Hi,  I’m Divyanshu Sahu
 - 👀 I’m interested in DevOps & Cloud
 - 🌱 I’m currently learning DevOps Tools & Azure Cloud, AWS
 - 💞️ I’m looking to collaborate on DevOps & Azure 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/divyanshursahu/)
-- ![](https://komarev.com/ghpvc/?username=divyanshursahu)
+
+![](https://komarev.com/ghpvc/?username=divyanshursahu&color=green)
+
+<a href="https://www.linkedin.com/in/divyanshursahu/"><img src="https://img.shields.io/static/v1?logo=Linkedin&label=&message=Linkedin&color=36393f&style=flat-square" alt="Linkedin"></a>
 
 <!---
 divyanshursahu/divyanshursahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
