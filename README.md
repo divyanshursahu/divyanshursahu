@@ -1,5 +1,5 @@
-<!--- <h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
-- 👋 Hi,  I’m Divyanshu Sahu
+<h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
+<!--- - 👋 Hi,  I’m Divyanshu Sahu
 - 👀 I’m interested in DevOps & Cloud
 - 🌱 I’m currently learning DevOps Tools & Azure Cloud, AWS
 - 💞️ I’m looking to collaborate on DevOps & Azure 
