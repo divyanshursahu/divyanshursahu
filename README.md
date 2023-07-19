@@ -1,5 +1,5 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshursahu&label=Profile%20views&color=0b64b7&style=flat" alt="divyanshursahu" /> </p>
-https://github.com/divyanshursahu/divyanshursahu/blob/6caa7e8e4beb10c671f4dfac90568a402819ec64/ezgif.com-crop.gif
+<p align="center"> <img src="https://github.com/divyanshursahu/divyanshursahu/blob/878e63cf459f50b5d0d357ec834ffca19420150d/banner.gif" alt="divyanshursahu" /> </p>
+
 <h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshursahu&label=Profile%20views&color=0b64b7&style=flat" alt="divyanshursahu" /> </p>
 
