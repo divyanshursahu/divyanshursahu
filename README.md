@@ -1,4 +1,4 @@
-<p align="center"> <img src="./banner.gif" alt="divyanshursahu" /> </p>
+<p align="center"> <img src="./images/banner.gif" alt="divyanshursahu" /> </p>
 
 <h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshursahu&label=Profile%20views&color=0b64b7&style=flat" alt="divyanshursahu" /> </p>
