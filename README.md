@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Divyanshu 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshursahu&label=Profile%20views&color=0b64b7&style=flat" alt="divyanshursahu" /> </p>
 
-- 👯 I’m looking to collaborate on **Azure and Terraform**
+- 💻 I’m looking to collaborate on **Azure and Terraform**
 
 - 💬 Ask me about **Azure, Linux, Kubernetes, Terraform**
 
